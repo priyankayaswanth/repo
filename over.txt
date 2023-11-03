@@ -1,7 +1,4 @@
-<<<<<<< HEAD
 overaction
-
 ok na
-=======
-overaction
->>>>>>> yash1
+
+
